@@ -17,4 +17,5 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 [My Youtube Channel](https://www.youtube.com/channel/UCqvF-y6qIeEzZ-h00XEbyaw)
+
 [My Itch.io page](https://game-design-portfolio.itch.io)
