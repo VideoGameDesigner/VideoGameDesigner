@@ -20,4 +20,3 @@
 
 [My Itch.io Page](https://game-design-portfolio.itch.io)
 
-[My Linkedin Page](www.linkedin.com/in/shane-ashamn-63613525b)
