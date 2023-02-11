@@ -18,4 +18,6 @@
 
 [My Youtube Channel](https://www.youtube.com/channel/UCqvF-y6qIeEzZ-h00XEbyaw)
 
-[My Itch.io page](https://game-design-portfolio.itch.io)
+[My Itch.io Page](https://game-design-portfolio.itch.io)
+
+[My Linkedin Page](www.linkedin.com/in/shane-ashamn-63613525b)
