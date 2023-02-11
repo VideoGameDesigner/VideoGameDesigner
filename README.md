@@ -19,3 +19,5 @@
 [My Youtube Channel](https://www.youtube.com/channel/UCqvF-y6qIeEzZ-h00XEbyaw)
 
 [My Itch.io Page](https://game-design-portfolio.itch.io)
+
+[Portfolio Website](https://shaneashman.wixsite.com/shanes-game-design-p)
