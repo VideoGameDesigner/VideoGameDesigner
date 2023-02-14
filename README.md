@@ -20,4 +20,4 @@
 
 [My Itch.io Page](https://game-design-portfolio.itch.io)
 
-[Portfolio Website](https://shaneashman.wixsite.com/shanes-game-design-p)
+[Portfolio Website](https://shaneashman.wixsite.com/gamedesign-portfolio)
